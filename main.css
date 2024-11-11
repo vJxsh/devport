@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(205, 221, 226);
+    font: normal 15px/1.5em 'Inter', Helvetica, Arial, sans-serif;
+    
+}
+
+h1 {
+    margin-top: 4.5em;
+    color : black;
+    text-align: center;
+    
+}
+.avatar{
+    text-align: center;
+    height: 70%;
+    width: 98.5%;
+    padding: 17px;
+    border: 75px;
+ }
+
+.introduction {
+    margin-top: 5em;
+    text-align: center;
+    font-size: 18px;
+    margin: 676.45.25px;
+    line-height: 0.75;
+    
+}
+.socials {
+    margin-top: 2em;
+    text-align: justify;
+    font-size: 20px;
+    margin-inline-start: 25em;
+    
+}
